@@ -11,7 +11,7 @@ I accept donations via my (slightly outdated now) [Patreon](https://www.patreon.
 
 ## Sabers
 
-You can find all of the sabers I have created via my Patreon and KoFi links, or via my Quest Github page. You can also find sabers via my SideQuest profile.
+You can find all of the sabers I have created via my Patreon and KoFi links, or via my Custom Quest Saber Github page. You can also find sabers via my [SideQuest profile]().
 
 Here is a list of current sabers available as well as their status when using with the new version of BeatSaber and Qosmetics:
 
